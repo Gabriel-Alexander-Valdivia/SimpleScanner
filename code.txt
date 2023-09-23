@@ -1,0 +1,7 @@
+while(nota >= 15){
+	String estadoDeAnimo = "Feliz";
+	Int dopamina$ = 1000;
+	if(energiaRestante > 50){
+		Bool seguirAdelante = true;
+	}
+}
